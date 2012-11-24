@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=package_development
+Type=Application
+Exec=dcop kdesktop KDesktopIface popupExecuteCommand
+Name=Run
+Name[tr]=Çalistir
+Comment=Run applications
+Comment[tr]=Uygulama calistir

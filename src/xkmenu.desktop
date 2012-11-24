@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Comment= An enhanced K-Menu implementation
+Name=X-KMenu
+Name[xx]=xxxkmenuxx
+X-KDE-Library=xkmenu_panelapplet
+X-KDE-UniqueApplet = false

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=laptop
+Type=Application
+Exec=kfmclient openProfile test system:/
+Name=My Computer
+Name[tr]=Bilgisayarim
+Comment=Overview of my system
+Comment[tr]=Sisteme genel bir bakis

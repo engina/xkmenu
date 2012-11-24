@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=kcontrol
+Type=Application
+Exec=kfmclient openProfile test settings:/
+Name=Control Panel
+Name[tr]=Kontrol Paneli
+Comment=Desktop configuration
+Comment[tr]=Masaüstü ayarlarim

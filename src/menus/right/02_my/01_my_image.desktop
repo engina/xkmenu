@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=folder_image
+Type=Application
+Exec=kfmclient openProfile test $HOME/Images
+Name=My Images
+Name[tr]=Resimlerim
+Comment=Your image collection
+Comment[tr]=Resim koleksiyonum

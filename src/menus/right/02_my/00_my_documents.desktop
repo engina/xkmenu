@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=folder_txt
+Type=Application
+Exec=kfmclient openProfile test $HOME/
+Name=My Documents
+Name[tr]=Belgelerim
+Comment=Your documents
+Comment[tr]=Dökümanlarınız

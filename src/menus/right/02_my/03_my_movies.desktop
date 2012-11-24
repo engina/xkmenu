@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=folder_video
+Type=Application
+Exec=kfmclient openProfile test $HOME/Movies
+Name=My Movies
+Name[tr]=Filmlerim
+Comment=My movie collection
+Comment[tr]=Film koleksiyonum

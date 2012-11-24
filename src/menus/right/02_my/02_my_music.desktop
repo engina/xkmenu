@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=folder_sound
+Type=Application
+Exec=kfmclient openProfile test $HOME/Music
+Name=My Music
+Name[tr]=Müziklerim
+Comment=My music collection
+Comment[tr]=Müzik koleksiyonum
